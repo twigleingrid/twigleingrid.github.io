@@ -1,0 +1,5 @@
+baseURL = "https://twigleingrid.github.io"
+languageCode = "en-us"
+title = "Ingrid's World"
+theme = "ananke"
+publishDir = ".."
