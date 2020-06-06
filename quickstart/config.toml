@@ -3,3 +3,9 @@ languageCode = "en-us"
 title = "Ingrid's World"
 theme = "ananke"
 publishDir = ".."
+
+[params]
+  twitter = "https://twitter.com/BudauIngrid"
+  github = "https://github.com/twigleingrid"
+  linkedin = "https://www.linkedin.com/in/ingrid-budau-a11218190/"
+  featured_image = "/images/cherry.jpg"
