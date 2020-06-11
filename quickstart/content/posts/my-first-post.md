@@ -1,7 +1,7 @@
 ---
 title: "Entering the Outreachy World"
 date: 2020-06-06T11:13:51+02:00
-draft: true
+draft: false
 ---
 
 *Mary had a little lambda,   
